@@ -38,6 +38,12 @@ body {
     color: white;
 }
 
+.btn-black-outline {
+    background: white;
+    color: black !important;
+    border: 1px solid black;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -88,7 +94,6 @@ a.category-badge>span.badge:hover {
 .remove-item {
     cursor: pointer;
 }
-
 
 /* -------------------------------- Media Queries */
 
